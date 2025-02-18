@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ayush VaZe 👋</h1>
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 <h3 align="center">AI & Data Science Enthusiast | Android Developer | Problem Solver</h3>
 
 ---
@@ -31,8 +31,8 @@
 ---
 
 ### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-vaze-486694280/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AyushVaZe67)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4081?style=for-the-badge&logo=web)](https://yourportfolio.com)
 
 ---
