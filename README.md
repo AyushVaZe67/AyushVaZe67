@@ -84,5 +84,4 @@ Aspiring machine learning and data science professional with a strong foundation
 
 ---
 
-⭐ **Fun Fact**: I love **cats** and enjoy exploring **AI-enhanced creativity**! 🐱✨  
 🚀 **Let's innovate together!**  
