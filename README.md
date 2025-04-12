@@ -80,4 +80,3 @@ Aspiring machine learning and data science professional with a strong foundation
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-vaze-486694280/)
 
-🚀 **Let's innovate together!**  
