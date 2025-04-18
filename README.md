@@ -11,11 +11,11 @@ Aspiring machine learning and data science professional with a strong foundation
 ## 🎓 Education  
 - **BE in Artificial Intelligence and Data Science** (2023 - Present)  
   *Dr. D. Y. Patil Institute of Technology*  
-- **Diploma in Computer Engineering** (2021 - 2023) | *GPA: 8.70*  
+- **Diploma in Computer Engineering** (2021 - 2023)
   *Bhausaheb Vartak Polytechnic*  
-- **Higher Secondary Certificate (HSC)** (2019 - 2021) | *Percentage: 88.00%*  
+- **Higher Secondary Certificate (HSC)** (2019 - 2021)   
   *Sonopant Dandekar Shikshan Mandali (SDSM) College*  
-- **Secondary School Certificate (SSC)** (2019) | *Percentage: 85.80%*  
+- **Secondary School Certificate (SSC)** (2019)   
   *Twinkle Star English High School, Palghar*  
 
 ---
