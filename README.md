@@ -51,13 +51,6 @@ Aspiring machine learning and data science professional with a strong foundation
 
 ---
 
-## 🏆 Awards & Achievements  
-- 🥇 **1st Prize** in Blind Code at Inter-Collegiate TechFest (April 2022)  
-- 🥈 **2nd Prize** in Memory Code at Inter-Collegiate TechFest (April 2022)  
-- 🥇 **1st Prize** in State-Level Rubik’s Cube Competition (August 2022)  
-
----
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AyushVaZe67&show_icons=true&theme=dark" />
