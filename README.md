@@ -35,17 +35,6 @@ Aspiring machine learning and data science professional with a strong foundation
 
 ---
 
-## 🚀 Projects  
-- **PriceSage** (Nov 2024)  
-  - Developed a machine learning model to predict laptop prices based on specifications.  
-  - Integrated the model into an Android app for price predictions.  
-
-- **FoodXpress** (Feb 2024 - April 2024)  
-  - Developed an Android app for students to pre-order and pre-pay for meals.  
-  - Reduced wait times and improved efficiency with online payments.  
-
----
-
 ## 🛠 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
