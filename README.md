@@ -16,7 +16,7 @@ Aspiring machine learning and data science professional with a strong foundation
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 📜 Additional Skills  
+### 📜 Skills  
 - **Programming Languages:** Python, Java, Dart, JavaScript, SQL
 - **Frameworks:** Android, Flutter, Firebase  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow  
