@@ -8,21 +8,6 @@ Aspiring machine learning and data science professional with a strong foundation
 
 ---
 
-## 💼 Internships  
-- **Arise Vishwa Society NGO** (Dec 2024 - Feb 2025)  
-  - Developed a mobile app to help kids understand the importance of money and budgeting.  
-  - Improved technical skills and creativity in building engaging educational solutions.  
-
-- **Prayas Developers** (June 2023 - July 2023)  
-  - Conducted hands-on training sessions in Android development basics for junior students.  
-  - Enhanced foundational skills, guided learners through practical projects, and improved problem-solving abilities.  
-
-- **UEF EdTech Pvt. Ltd.** (June 2022 - July 2022)  
-  - Worked as an Android development intern, gaining hands-on experience in building apps.  
-  - Implemented Firebase features like data storage and authentication, strengthening knowledge in Android Studio, app architecture, and core development principles.  
-
----
-
 ## 🛠 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
