@@ -8,18 +8,6 @@ Aspiring machine learning and data science professional with a strong foundation
 
 ---
 
-## 🎓 Education  
-- **BE in Artificial Intelligence and Data Science** (2023 - Present)  
-  *Dr. D. Y. Patil Institute of Technology*  
-- **Diploma in Computer Engineering** (2021 - 2023)
-  *Bhausaheb Vartak Polytechnic*  
-- **Higher Secondary Certificate (HSC)** (2019 - 2021)   
-  *Sonopant Dandekar Shikshan Mandali (SDSM) College*  
-- **Secondary School Certificate (SSC)** (2019)   
-  *Twinkle Star English High School, Palghar*  
-
----
-
 ## 💼 Internships  
 - **Arise Vishwa Society NGO** (Dec 2024 - Feb 2025)  
   - Developed a mobile app to help kids understand the importance of money and budgeting.  
