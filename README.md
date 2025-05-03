@@ -32,7 +32,7 @@ Aspiring machine learning and data science professional with a strong foundation
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 📜 Additional Skills  
-- **Programming Languages:** Python, Java, Dart, JavaScript, SQL, PHP  
+- **Programming Languages:** Python, Java, Dart, JavaScript, SQL
 - **Frameworks:** Android, Flutter, Firebase  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow  
 - **Soft Skills:** Communication, Teamwork, Problem Solving, Time Management, Leadership  
