@@ -17,9 +17,11 @@ Aspiring machine learning and data science professional with a strong foundation
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 📜 Skills  
-- **Programming Languages:** Python, Java, Dart, JavaScript, SQL
-- **Frameworks:** Android, Flutter, Firebase  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow  
+- **Programming Languages:** Python, Java, Dart, JavaScript, SQL  
+- **Frameworks/Tools:** Android, Flutter, Firebase, Flask  
+- **Libraries/Technologies:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, OpenCV, TensorFlow, Keras  
+- **Machine Learning:** Supervised Learning, Unsupervised Learning, Statistics, Model Deployment  
+- **Deep Learning:** CNN, RNN, LSTM, YOLO, Transfer Learning  
 - **Soft Skills:** Communication, Teamwork, Problem Solving, Time Management, Leadership  
 
 ---
