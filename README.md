@@ -5,7 +5,7 @@
 
 ## 🎯 Career Objective  
 
-Aspiring data scientist with a solid foundation in computer engineering and hands-on experience in machine learning and deep learning. Recently completed training in ML, DL, and transformers, and currently focusing on advancing my skills in data science. Passionate about applying computer vision techniques, with a strong interest in OpenCV and YOLO for image and video-based projects. Experienced in developing user-friendly mobile applications and integrating AI solutions. Driven by a goal to turn complex data into meaningful, actionable insights.
+Aspiring data scientist with a strong foundation in computer engineering and hands-on experience in machine learning and deep learning. Recently completed training in ML, DL, and transformers, and currently deepening my expertise in data science. Enthusiastic about computer vision, with a keen interest in OpenCV and YOLO for image and video-based applications. Also experienced in developing intuitive Android and cross-platform apps with integrated AI features. Passionate about turning data into practical, impactful solutions.
 
 ---
 
