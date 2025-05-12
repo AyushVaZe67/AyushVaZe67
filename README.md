@@ -4,8 +4,7 @@
 ---
 
 ## 🎯 Career Objective  
-Aspiring machine learning and data science professional with a strong foundation in computer engineering and knowledge of machine learning and deep learning. Passionate about leveraging data-driven insights for smart solutions. Also experienced in app development, delivering user-friendly applications.
-
+Aspiring Data Scientist with a solid foundation in Computer Engineering and hands-on experience in Machine Learning and Deep Learning. Recently completed training in ML, DL, and Transformers, and currently focusing on advancing my skills in data science. Passionate about applying computer vision techniques, with a strong interest in OpenCV and YOLO for image and video-based projects. Experienced in developing user-friendly mobile applications and integrating AI solutions. Driven by a goal to turn complex data into meaningful, actionable insights.
 ---
 
 ## 🛠 Tech Stack  
