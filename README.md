@@ -32,8 +32,7 @@ Aspiring data scientist with a strong foundation in computer engineering and han
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Stats](https://img.shields.io/badge/Stats-19a6b3?style=for-the-badge&logo=visualstudiocode&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00599C?style=for-the-badge&logo=python&logoColor=white)  
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-9900EF?style=for-the-badge&logo=keras&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00599C?style=for-the-badge&logo=python&logoColor=white)  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-9900EF?style=for-the-badge&logo=keras&logoColor=white)
 
 
 ### 📜 Skills  
