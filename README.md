@@ -27,7 +27,7 @@ Aspiring data scientist with a strong foundation in computer engineering and han
 - **Frameworks/Tools:** Android, Flutter, Firebase, Flask  
 - **Libraries/Technologies:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, OpenCV, TensorFlow, Keras  
 - **Machine Learning:** Supervised Learning, Unsupervised Learning, Statistics, Model Deployment  
-- **Deep Learning:** CNN, RNN, LSTM, YOLO, Transfer Learning  
+- **Deep Learning:** CNN, RNN, LSTM, YOLO, Transfer Learning, Transformers
 - **Soft Skills:** Communication, Teamwork, Problem Solving, Time Management, Leadership  
 
 ---
