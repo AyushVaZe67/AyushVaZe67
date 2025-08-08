@@ -8,6 +8,14 @@ Aspiring data scientist with a strong foundation in computer engineering and han
 
 ---
 
+<p align="center">
+  <img src="https://your-illustration-link.com/image.png" alt="Illustration" width="400"/>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_GITHUB_USERNAME" />
+</p>
+
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Languages  
