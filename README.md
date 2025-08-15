@@ -6,7 +6,7 @@
 
 Aspiring data scientist with a strong foundation in computer engineering and hands-on experience in machine learning and deep learning. Recently completed training in ML, DL, and transformers, and currently deepening my expertise in data science. Enthusiastic about computer vision, with a keen interest in OpenCV and YOLO for image and video-based applications. Also experienced in developing intuitive Android and cross-platform apps with integrated AI features. Passionate about turning data into practical, impactful solutions.
 
----
+--- 
  
 ## 🛠 Tech Stack
  
