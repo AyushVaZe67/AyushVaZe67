@@ -41,7 +41,7 @@ Aspiring data scientist with a strong foundation in computer engineering and han
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO (You Only Look Once)">
 </p> 
  
----
+--- 
 
 ## 📊 GitHub Stats 
 
