@@ -22,7 +22,7 @@ Aspiring data scientist with a strong foundation in computer engineering and han
 
 
 
-### 📜 Skills   
+### 📜 Skills
 - **Programming Languages:** Python, Java, Dart, JavaScript, SQL  
 - **Frameworks/Tools:** Android, Flutter, Firebase, Flask  
 - **Libraries/Technologies:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, OpenCV, TensorFlow, Mediapipe 
