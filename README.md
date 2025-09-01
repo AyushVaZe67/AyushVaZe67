@@ -32,7 +32,7 @@ Aspiring data scientist with a strong foundation in computer engineering and han
 
 ---
 
-## 🏅 GitHub Achievements
+## 🏅 GitHub Achievements 
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark">
