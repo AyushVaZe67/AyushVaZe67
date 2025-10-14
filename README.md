@@ -85,6 +85,19 @@ Aspiring data scientist with a strong foundation in computer engineering and han
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-vaze-486694280/)  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ayushvaze67)  [![Medium](https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayushvaze2003)  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Lw4NvhZnOj/)
+## 📫 Connect with Me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/ayush-vaze-486694280/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.kaggle.com/ayushvaze67" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kaggle_logo.png" alt="Kaggle" width="40" height="40"/>
+  </a>
+  <a href="https://medium.com/@ayushvaze2003" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="40" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/Lw4NvhZnOj/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
+  </a>
+</p>
