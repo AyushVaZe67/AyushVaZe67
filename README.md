@@ -12,14 +12,16 @@ Aspiring data scientist with a strong foundation in computer engineering and han
  
 ### 👨‍💻 Languages
 
-<img alt="Python" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" width="28" height="28"> <sub><b>Python</b></sub> &nbsp;&nbsp;
-<img alt="Java" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/java.svg" width="28" height="28"> <sub><b>Java</b></sub> &nbsp;&nbsp;
-<img alt="Dart" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/dart.svg" width="28" height="28"> <sub><b>Dart</b></sub> &nbsp;&nbsp;
-<img alt="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" width="28" height="28"> <sub><b>JavaScript</b></sub> &nbsp;&nbsp;
-<img alt="SQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postgresql.svg" width="28" height="28"> <sub><b>SQL</b></sub> &nbsp;&nbsp;
-<img alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" width="28" height="28"> <sub><b>HTML5</b></sub> &nbsp;&nbsp;
-<img alt="CSS3" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg" width="28" height="28"> <sub><b>CSS3</b></sub>
- 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+</p>
+
 
 ### 🧩 Frameworks & Libraries  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  ![YOLO](https://img.shields.io/badge/YOLO-FFDD00?style=for-the-badge&logo=github&logoColor=black)  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-008C93?style=for-the-badge&logo=matplotlib&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-9E5C5B?style=for-the-badge&logo=seaborn&logoColor=white)  [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
