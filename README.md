@@ -50,7 +50,7 @@ Aspiring data scientist with a strong foundation in computer engineering and han
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Anaconda_logo.svg" alt="Anaconda" width="45" height="45"/>
+  <img src="assets/logos/images.png" alt="Anaconda" width="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Google_Colaboratory_Logo.svg" alt="Google Colab" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canva_Logo.svg" alt="Canva" width="45" height="45"/>
