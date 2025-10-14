@@ -92,10 +92,10 @@ Aspiring data scientist with a strong foundation in computer engineering and han
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://www.kaggle.com/ayushvaze67" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kaggle_logo.png" alt="Kaggle" width="40" height="40"/>
+    <img src="assets/logos/kaggle.png" alt="Kaggle" width="45"/>
   </a>
   <a href="https://medium.com/@ayushvaze2003" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="40" height="40"/>
+    <img src="assets/logos/medium.png" alt="Medium" width="45"/>
   </a>
   <a href="https://leetcode.com/u/Lw4NvhZnOj/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
