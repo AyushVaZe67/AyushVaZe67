@@ -32,14 +32,15 @@ Aspiring data scientist with a strong foundation in computer engineering and han
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/AlexeyAB/darknet/master/darknet_logo.png" alt="YOLO" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/YOLOv5_Logo.png" alt="YOLO" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="45" height="45"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="60" height="40"/>
-  <a href="https://plotly.com" target="_blank"><img src="https://raw.githubusercontent.com/plotly/plotly.py/master/doc/logo.png" alt="Plotly" width="60" height="40"/></a>
+  <a href="https://plotly.com" target="_blank"><img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="45" height="45"/></a>
 </p>
+
 
 
 
@@ -49,11 +50,12 @@ Aspiring data scientist with a strong foundation in computer engineering and han
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="45" height="45"/>
-  <img src="https://www.anaconda.com/wp-content/uploads/2022/05/anaconda-logo.svg" alt="Anaconda" width="45" height="45"/>
-  <img src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canva_Logo.svg" alt="Canva" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Anaconda_logo.svg" alt="Anaconda" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Google_Colaboratory_Logo.svg" alt="Google Colab" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canva_Logo.svg" alt="Canva" width="45" height="45"/>
 </p>
+
 
 
 ### 📜 Skills
