@@ -32,7 +32,7 @@ Aspiring data scientist with a strong foundation in computer engineering and han
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/YOLOv5_Logo.png" alt="YOLO" width="45" height="45"/>
+  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/YOLOv5_Logo.png" alt="YOLO" width="45" height="45"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
