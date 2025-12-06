@@ -64,6 +64,7 @@ Aspiring data scientist with a strong foundation in computer engineering and han
 - **Libraries/Technologies:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, OpenCV, TensorFlow, Mediapipe  
 - **Machine Learning:** Supervised Learning, Unsupervised Learning, Statistics, Model Deployment  
 - **Deep Learning:** CNN, RNN, LSTM, YOLO, Transfer Learning, Transformers
+- **GenAI:** Langchain, HuggingFace
 - **Soft Skills:** Communication, Teamwork, Problem Solving, Time Management, Leadership  
 
 ---
