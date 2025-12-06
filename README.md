@@ -26,7 +26,7 @@ Aspiring data scientist with a strong foundation in computer engineering and han
 ### 🧩 Frameworks & Libraries  
 
 <p align="left">
-  <img src="assets/logos/langchain.png" alt="Langchain" width="55"/>
+  <img src="assets/logos/langchain.png" alt="Langchain" width="45"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
