@@ -26,6 +26,8 @@ Aspiring data scientist with a strong foundation in computer engineering and han
 ### 🧩 Frameworks & Libraries  
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.svg" alt="LangChain" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/huggingface/brand/main/hf-logo.svg" alt="HuggingFace" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
