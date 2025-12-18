@@ -82,12 +82,39 @@ Aspiring data scientist with a strong foundation in computer engineering and han
  
 --- 
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats & Streaks
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AyushVaZe67&theme=radical&hide_border=true&border_radius=8" width="42%"> 
+<!-- 1️⃣ GitHub Streak Stats (Original / Heroku) -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AyushVaZe67&theme=radical&hide_border=true&border_radius=8" width="45%">
+
+<!-- 2️⃣ GitHub Contributions Calendar (Reliable) -->
+![GitHub Contributions](https://ghchart.rshah.org/AyushVaZe67)
+
+<!-- Optional: Center the contributions calendar -->
+<!--
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyushVaZe67&theme=radical&hide_border=true&border_radius=8" width="50%">
+  <img src="https://ghchart.rshah.org/AyushVaZe67" width="70%">
 </p>
+-->
+
+<!-- 3️⃣ GitHub Stats Card (Total contributions, followers, stars) -->
+<img src="https://github-readme-stats.vercel.app/api?username=AyushVaZe67&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=8" width="45%">
+
+<!-- 4️⃣ Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushVaZe67&layout=compact&theme=radical&hide_border=true&border_radius=8" width="45%">
+
+<!-- 5️⃣ Optional Reliable Streak Alternative (Vercel Hosting) -->
+<img src="https://streak-stats.demolab.com?user=AyushVaZe67&theme=radical&hide_border=true&border_radius=8" width="45%">
+
+---
+
+### ✅ Notes:
+1. **Streak Stats Heroku** – May fail occasionally (free hosting).  
+2. **Contributions Calendar (ghchart.rshah.org)** – Always works; very reliable.  
+3. **GitHub Stats & Top Languages** – Shows contributions, stars, followers, and languages.  
+4. **Vercel Streak Alternative** – More reliable than Heroku streak widget.  
+5. Use `width` and `<p align="center">` to adjust size/center cards.  
+6. Optional: Take **screenshot as static image** if you want **100% guaranteed display**.
 
 ---
 
