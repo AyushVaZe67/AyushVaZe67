@@ -85,9 +85,9 @@ Aspiring data scientist with a strong foundation in computer engineering and han
 ## 📊 GitHub Stats 
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AyushVaZe67&theme=radical&hide_border=true&border_radius=8" width="42%"> 
-
-<img src="https://github-readme-stats.vercel.app/api?username=AyushVaZe67&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=8" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushVaZe67&layout=compact&theme=radical&hide_border=true&border_radius=8" width="48%">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyushVaZe67&theme=radical&hide_border=true&border_radius=8" width="50%">
+</p>
 
 ---
 
