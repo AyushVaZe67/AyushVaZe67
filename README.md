@@ -4,7 +4,7 @@
 ---           
 ## 🎯 Career Objective       
  
-Aspiring data scientist with a strong foundation in computer engineering and hands-on experience in machine learning and deep learning. Recently completed training in ML, DL, and GenAI, and currently deepening my expertise in data science. Enthusiastic about computer vision, with a keen interest in OpenCV and YOLO for image and video-based applications. Also experienced in developing intuitive Android and cross-platform apps with integrated AI features. Passionate about turning data into practical, impactful solutions.
+Aspiring Data Scientist with a strong foundation in computer engineering and hands-on experience in machine learning, deep learning, and Generative AI. Completed training in ML, DL, and GenAI, and currently deepening expertise in data science. Enthusiastic about computer vision, with practical experience using OpenCV and YOLO for image and video-based applications. Skilled in building LLM-powered applications using LangChain and Hugging Face APIs, and in developing scalable AI backends with FastAPI. Also experienced in creating intuitive Android and cross-platform applications with integrated AI features, driven by a passion for transforming data into impactful, real-world solutions.
  
 ---   
   
