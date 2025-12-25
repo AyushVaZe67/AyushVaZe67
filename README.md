@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ayush VaZe 👋</h1>  
-<h3 align="center">Aspiring Machine Learning & Data Science Professional | App Developer | Problem Solver</h3>      
+<h3 align="center">Aspiring Data Scientist & Machine Learning Engineer | GenAI & Computer Vision | App Developer</h3>  
 
 ---           
 ## 🎯 Career Objective       
