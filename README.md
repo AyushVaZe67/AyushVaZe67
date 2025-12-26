@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ayush VaZe 👋</h1>  
-<h3 align="center">Aspiring Data Scientist & Machine Learning Engineer | GenAI & Computer Vision | App Developer</h3>  
+<h3 align="center">Aspiring Data Scientist & AI Engineer | GenAI & Computer Vision | Mobile App Developer</h3>  
 
 ---           
 ## 🎯 Career Objective       
@@ -59,13 +59,12 @@ Aspiring AI Engineer with a strong foundation in computer engineering and hands-
 </p>
 
 
-
 ### 📜 Skills
 - **Programming Languages:** Python, Java, Dart, JavaScript, SQL  
 - **Frameworks/Tools:** Android, Flutter, Firebase, Flask, FastAPI
 - **Libraries/Technologies:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, OpenCV, TensorFlow, Mediapipe  
 - **Machine Learning:** Supervised Learning, Unsupervised Learning, Statistics, Model Deployment  
-- **Deep Learning:** CNN, RNN, LSTM, YOLO, Transfer Learning, Transformers
+- **Deep Learning:** CNN, RNN, LSTM, GRU, YOLO, Transfer Learning, Transformers
 - **GenAI:** Langchain, HuggingFace, Prompt Engineering
 - **Soft Skills:** Communication, Teamwork, Problem Solving, Time Management, Leadership  
 
