@@ -2,6 +2,7 @@
 <h3 align="center">Aspiring Data Scientist & AI Engineer | GenAI & Computer Vision | Mobile App Developer</h3>  
 
 ---           
+
 ## 🎯 Career Objective       
  
 Aspiring AI Engineer with a strong foundation in computer engineering and hands-on experience in machine learning, deep learning, and Generative AI. Completed training in ML, DL, and GenAI, and currently deepening expertise in data science. Enthusiastic about computer vision, with practical experience using OpenCV and YOLO for image and video-based applications. Skilled in building LLM-powered applications using LangChain and Hugging Face APIs, and in developing scalable AI backends with FastAPI. Also experienced in creating intuitive Android and cross-platform applications with integrated AI features, driven by a passion for transforming data into impactful, real-world solutions.
@@ -62,7 +63,7 @@ Aspiring AI Engineer with a strong foundation in computer engineering and hands-
 ### 📜 Skills
 - **Programming Languages:** Python, Java, Dart, JavaScript, SQL  
 - **Frameworks/Tools:** Android, Flutter, Firebase, Flask, FastAPI
-- **Libraries/Technologies:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, OpenCV, TensorFlow, Mediapipe, Pydantic
+- **Libraries/Technologies:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, OpenCV, TensorFlow, Mediapipe, Pydantic, Git & Github
 - **Machine Learning:** Supervised Learning, Unsupervised Learning, Statistics, Model Deployment  
 - **Deep Learning:** CNN, RNN, LSTM, GRU, YOLO, Transfer Learning, Transformers
 - **GenAI:** Langchain, HuggingFace, Prompt Engineering
