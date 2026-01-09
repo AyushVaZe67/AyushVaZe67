@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ayush VaZe 👋</h1>  
-<h3 align="center">Aspiring  AI Engineer | GenAI & Computer Vision | Mobile App Developer</h3>  
+<h3 align="center">Aspiring  Data Scientist & AI Engineer | GenAI & Computer Vision | Mobile App Developer</h3>  
 
 ---           
 
