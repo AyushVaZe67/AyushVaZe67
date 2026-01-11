@@ -64,9 +64,9 @@ Aspiring AI Engineer with a strong foundation in computer engineering and hands-
 - **Programming Languages:** Python, Java, Dart, JavaScript, SQL  
 - **Frameworks/Tools:** Android, Flutter, Firebase, Flask, FastAPI
 - **Libraries/Technologies:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, OpenCV, TensorFlow, Mediapipe, Pydantic, Git & Github
-- **Machine Learning:** Supervised Learning, Unsupervised Learning, Statistics, Model Deployment  
+- **Machine Learning:** Supervised Learning, Unsupervised Learning, Statistics, Model Deployment 
 - **Deep Learning:** CNN, RNN, LSTM, GRU, YOLO, Transfer Learning, Transformers
-- **GenAI:** Langchain, HuggingFace, Prompt Engineering
+- **GenAI:** Langchain, HuggingFace, Prompt Engineering, RAG
 - **Soft Skills:** Communication, Teamwork, Problem Solving, Time Management, Leadership  
 
 ---
