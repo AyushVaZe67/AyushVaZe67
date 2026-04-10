@@ -5,7 +5,7 @@
 
 ## 🎯 Career Objective
  
-Aspiring AI Engineer with a strong foundation in computer engineering and hands-on experience in machine learning, deep learning, and Generative AI. Completed training in ML, DL, and GenAI, and currently deepening expertise in data science. Enthusiastic about computer vision, with practical experience using OpenCV and YOLO for image and video-based applications. Skilled in building LLM-powered applications using LangChain and Hugging Face APIs, and in developing scalable AI backends with FastAPI. Also experienced in creating intuitive Android and cross-platform applications with integrated AI features, driven by a passion for transforming data into impactful, real-world solutions.
+Aspiring AI Engineer with a strong foundation in computer engineering and hands-on experience in machine learning, deep learning, and Generative AI. I approach AI problems with a mathematical mindset, leveraging linear algebra, probability, calculus, and statistics to understand model behavior, optimize performance, and validate results. Completed training in ML, DL, and GenAI, and currently deepening expertise in data science. Enthusiastic about computer vision, with practical experience using OpenCV and YOLO for image and video-based applications. Skilled in building LLM-powered applications using LangChain and Hugging Face APIs, and in developing scalable AI backends with FastAPI. Also experienced in creating intuitive Android and cross-platform applications with integrated AI features, driven by a passion for transforming data into impactful, real-world solutions — where every insight is grounded in mathematical reasoning.
  
 ---   
   
